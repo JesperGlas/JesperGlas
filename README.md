@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jesper
 #### My current obsession is C++
-![My current obsession is C++](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a software engineer student currently studying a Bachelor at Uppsala University. 
 
