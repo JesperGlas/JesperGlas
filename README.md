@@ -3,7 +3,12 @@
 
 I'm a software engineer student currently studying a Bachelor at Uppsala University. 
 
-Skills: Python / C++ / Java / Angular 2+
+### Skills
+* Python
+* C++, C
+* Java
+* Haskell
+* Angular 2+
 
 - 🔭 I’m currently working on a Project: Dynamic Shadows in 2D Graphics 
 - 🌱 I’m currently learning OpenGL and C++ 
