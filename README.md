@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Jesper
+### Hi there, my name is Jesper
 
 I'm a computer engineer student currently studying at Uppsala University. 
 
-- 🌱 I’m currently learning OpenGL and C++
-- 📫 How to reach me: jesper.github@gmail.com 
+- I’m currently learning OpenGL and C++
+- How to reach me: jesper.github@gmail.com 
 
 ### Skills
 
