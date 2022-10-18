@@ -5,11 +5,12 @@ I'm a computer engineer student currently studying at Uppsala University.
 - I’m currently learning OpenGL and C++
 - How to reach me: jesper.github@gmail.com 
 
-### Skills
+### Favorites
 
 * Python
 * C++
 * Java
+* OpenGL
 * Angular 2+
 
 ### Stats
