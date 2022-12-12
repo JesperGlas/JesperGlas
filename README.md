@@ -11,6 +11,7 @@ I'm a computer engineer student currently studying at Uppsala University.
 * C++
 * Go
 * OpenGL
+* Unity (C#)
 * Angular 2+
 
 ### Stats
