@@ -2,16 +2,16 @@
 
 I'm a computer engineer student currently studying at Uppsala University. 
 
-- I’m currently learning OpenGL and C++
+- I’m currently exploring concurrency with Go
 - How to reach me: jesper.github@gmail.com 
 
 ### Favorites
 
-* Python
-* C++
-* Java
-* OpenGL
-* Angular 2+
+* Python      - For everyting I can
+* C++         - For freedom
+* Go          - For concurrency
+* OpenGL      - For graphics
+* Angular 2+  - For web
 
 ### Stats
 
