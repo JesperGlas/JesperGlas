@@ -7,10 +7,10 @@ I'm a computer engineer student currently studying at Uppsala University.
 
 ### Favorites
 
-* Python      - For everyting I can
-* C++         - For freedom
-* Go          - For concurrency
-* OpenGL      - For graphics
+* Python
+* C++
+* Go
+* OpenGL
 * Angular 2+  - For web
 
 ### Stats
