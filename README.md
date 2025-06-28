@@ -1,10 +1,5 @@
 ### Hi there, my name is Jesper
 
-I'm a computer engineer student currently studying at Uppsala University. 
-
-- I’m currently exploring concurrency with Go
-- How to reach me: jesper.github@gmail.com 
-
 ### Favorites
 
 * Python
@@ -12,7 +7,6 @@ I'm a computer engineer student currently studying at Uppsala University.
 * Go
 * OpenGL
 * Unity (C#)
-* Angular 2+
 
 ### Socials
 
